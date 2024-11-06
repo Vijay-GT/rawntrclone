@@ -1,0 +1,168 @@
+  
+  body{
+   overflow-x: hidden;
+  }
+  /*the section is started*/ 
+ img.img-fluid.logo {
+  width: 150px;
+  margin-left: 14%;
+ }
+
+ nav.nav-bar {
+  background-color: #580000;
+  color: fff;
+  position: fixed;
+  min-width: 100%;
+  top: 0;
+  left: 0;
+  z-index: 10;
+  font-size: 19px;
+  min-height: 66px;
+ }
+
+ .matter {
+  font-size: 13px;
+ }
+
+ a {
+  text-decoration: none;
+ }
+
+ .nav-links {
+  width: 45%;
+  margin: auto 20px auto 0px;
+ }
+
+ .nav-link:hover {
+  text-decoration: underline;
+  transition: all 0.5s ease-in-out;
+  color: gold;
+  
+ }
+
+ /*the section is ended*/
+ /*the section is started*/
+ .inner-content {
+  margin: 50px 5px 5px 10px;
+  box-shadow: 5px 5px 15px 5px #CDCDCD;
+ }
+ .count:hover{ 
+  color: goldenrod; 
+ }
+ .second-section {
+  margin-top: 7%;
+ }
+
+ h1.count {
+  font-size: -webkit-xxx-large;
+  font-weight: 700;
+ }
+
+ button.volunteer.text-white {
+  background-color: #580000;
+  padding: 5px 29px;
+  border-radius: 5px;
+  margin-top: 33px;
+  margin-left: 37px;
+ }  
+ .volunteer-text:hover{ 
+  color: greenyellow;
+ }
+ 
+ p, h1 {
+  margin-bottom: 0 !important;
+ }
+
+ img.img-fluid.help-logo {
+  margin-top: 13px;
+ }
+
+ /*the section is ended*/
+ /*the section started here*/
+ .publish {
+  display: inline-block;
+  background: #580000;
+  color: #fff;
+  padding: 10px;
+  font-size: 30px;
+  text-align: center;
+  margin-bottom: 100px;
+  width: 139%;
+  padding-left: 250px;
+ }
+.publish:hover{ 
+  color: goldenrod;
+}
+ .head {
+  font-size: 20px;
+  font-weight: 700;
+ }
+
+ img.img-fluid.ntr-img {
+  width: 100%;
+  padding-left: 120px;
+ }
+
+ .img-fluid.ntr-donations {
+  width: 300px;
+  box-shadow: 5px 5px 15px 5px gray;
+ }
+
+ .ntr-donations:hover {
+  transform: scale(1.2);
+ }
+
+ /*the section is ended*/
+ /*the section is started*/
+ .activties {
+  box-shadow: 5px 5px 15px 5px #CDCDCD;
+width: 95%;
+ }
+
+ .menu-list {
+  margin-left: 41%;
+  font-size: 18px;
+  font-weight: 400;
+ } 
+ /*the section is ended*/  
+ /*the section is started */
+ .our-team{ 
+  box-shadow: 5px 5px 15px 5px #CDCDCD; 
+  max-width: 95%;
+ }   
+ /*the section is ended*/    
+ /*the section is started */  
+.about{ 
+  box-shadow: 5px 5px 15px 5px #CDCDCD; 
+  max-width: 95%;
+}
+/*the section is ended*/    
+/*the section is started */   
+.inner-social{ 
+  background-color: #580000;
+}
+ /*the section is ended*/  
+ /*the section is started */   
+ 
+/*the section is ended*/  
+
+.mailll{ 
+  color: hsl(43, 55%, 57%);
+}    
+.mail:hover{ 
+  color: goldenrod;
+}
+.whats-app-2 {
+  background-color: #25D366; 
+  padding: 10px; 
+  border-radius: 12px; 
+  display: inline-block; 
+  position: fixed;
+  bottom: 19px;
+  left: 12px;
+}
+
+.whats-app-icon-1 {
+  width: 31px;
+  display: block;
+}
